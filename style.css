@@ -1,0 +1,22 @@
+.footing{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;
+    background:royalblue;
+}
+body{
+    background-size: cover;
+    background-image: url("download.jpg");
+}
+#heading{
+    width:100%;
+    border:solid 4px rgb(0, 0, 0);
+    background-image: linear-gradient(red, steelblue, blue);
+}
+#beeg{
+    font-size: xx-large;
+}
+canvas{
+    border:ridge 6px orange;
+}
